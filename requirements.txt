@@ -1,0 +1,22 @@
+# Data Manipulation and Analysis
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==7.0.6
+
+# Optional: For potential deep learning or advanced modeling
+# tensorflow==2.15.0
+# torch==2.1.2
+
+# Data Validation and Preprocessing
+# You might add more specific validation libraries as needed
